@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on Full Stack
 
 - 🌱 I’m currently learning **Javascript,Database Systems**
 
