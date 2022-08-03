@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihguzel" alt="fatihguzel" /></a> </p>
+- 🔭 I’m currently working on **Full Stack**
 
-- 🔭 I’m currently working on [Full Stack](https://github.com/fatihguzel)
-
-- 🌱 I’m currently learning **Javascript,Database System**
+- 🌱 I’m currently learning **Javascript,Database Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihguzel&show_icons=true&locale=en&layout=compact" alt="fatihguzel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihguzel&show_icons=true&locale=en" alt="fatihguzel" /></p>
-
