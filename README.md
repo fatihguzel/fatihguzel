@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-- 🔭 I’m currently working on Full Stack
+🔭 I’m currently working on Full Stack
 
-- 🌱 I’m currently learning **Javascript,Database Systems**
+🌱 I’m currently learning **Javascript,Database Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
